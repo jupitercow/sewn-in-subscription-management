@@ -1,14 +1,13 @@
 <?php
 
 /**
- * @link              https://github.com/jupitercow/sewn-in-subscriptions
+ * @link              https://github.com/jupitercow/sewn-in-subscription-management
  * @since             1.1.0
  * @package           Sewn_Subscriptions
  *
  * @wordpress-plugin
- * Plugin Name:       Sewn In Subscriptions
- * Plugin URI:        https://wordpress.org/plugins/sewn-in-subscriptions/
- * Description:       Unsubscribe from emails. This really just creates an interface for unsubscribing, it doesn't actually do anything more than set usermeta data that can be used by other functions.
+ * Plugin Name:       Sewn In Subscription Management
+ * Description:       Unsubscribe from emails. This really just creates an interface for unsubscribing, it doesn't actually do anything more than set usermeta data that can be used by other functions before sending an email. Works with our WP Messenger plugin.
  * Version:           1.1.0
  * Author:            Jupitercow
  * Author URI:        http://Jupitercow.com/
